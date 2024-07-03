@@ -21,7 +21,7 @@ POC数据库支持类似于nuclei poc脚本部分功能（base64解密，正则�
 
 GoT.exe sniff -u http://127.0.0.1
 
-![基础功能](图片\3.jpg )
+![基础功能](https://github.com/AgentVirus/GoT/blob/master/%E5%9B%BE%E7%89%87/1.jpg)
 
 #### sniff模块其他功能
 
