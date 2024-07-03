@@ -41,7 +41,7 @@ GoT.exe sniff -u http://127.0.0.1 -proxy socks5://127.0.0.1:7890 -pr
 
 -at
 
-GoT.exe sniff -u http://oa.tztzgdjt.com:8888 -at
+GoT.exe sniff -u http://127.0.0.1.com:8888 -at
 
 ![基础功能](https://github.com/AgentVirus/GoT/blob/master/%E5%9B%BE%E7%89%87/6.jpg)
 
