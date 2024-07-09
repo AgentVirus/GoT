@@ -1,5 +1,7 @@
 # GoT -- 基于SQLite数据库的指纹识别-漏洞POC管理扫描工具
 
+# 声明：本工具的目的是交流与学习，禁止非法或未授权途径下使用，若是造成网络与社会危害与开发者无关！！！！
+
 ## 工具功能截图
 ![基础功能](https://github.com/AgentVirus/GoT/blob/master/%E5%9B%BE%E7%89%87/1.jpg)
 
